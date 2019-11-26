@@ -1,8 +1,8 @@
 zh_cn({
 	"basicInfo": {
 		"name": "苏晓光 ♂ 男",
-		"title": "☆ 前端开发 ☆ 系统架构师 ☆ 技术经理",
-		"profileInfo": "鄙人自小对科学、物理、数学等学科有独特的兴趣，初中时期开始接触电脑，开启了自己的计算机学习生涯。高中时期开始自学编程，并在高考时果断放弃了自己最擅长的中文专业，选择了计算机专业。2011年于天龙八部学院计算机科学与技术系毕业之后，一直主攻JAVA领域的开发和研究工作。本人做事勤恳、细心，富有工作责任心，喜欢与人交流。善于思考，学习理解和适应能力强。爱好户外爬山、跑步、篮球、羽毛球、游泳等。计算机方面专业基础扎实，项目实践经验丰富，思维反应快速敏捷，学习适应能力过硬，具备从事软件开发工作所需要的细心和耐心。我始终坚信唯有付出，方有收获，天道酬勤，想要成功，就得脚踏实地，比别人努力再努力。",
+		"title": "☆ 前端开发工程师 ☆ 系统架构师 ☆ 技术经理",
+		"profileInfo": "鄙人自小对科学、物理、数学等学科有独特的兴趣，初中时期开始接触电脑，开启了自己的计算机学习生涯。高中时期开始自学编程，并在高考时果断放弃了自己最擅长的中文专业，选择了计算机专业。2013年于洛阳理工学院计算机科学与技术系毕业之后，一直主攻前端领域的开发和研究工作。本人做事勤恳、细心，富有工作责任心，喜欢与人交流。善于思考，学习理解和适应能力强。爱好户外爬山、跑步、篮球、羽毛球、游泳等。计算机方面专业基础扎实，项目实践经验丰富，思维反应快速敏捷，学习适应能力过硬，具备从事软件开发工作所需要的细心和耐心。我始终坚信唯有付出，方有收获，天道酬勤，想要成功，就得脚踏实地，比别人努力再努力。",
 		"email": "2253745861@qq.com",
 		"mobile": "1821502006",
 		"website": "https://blog.csdn.net/qq_40687327",
@@ -170,18 +170,18 @@ zh_cn({
 			"url": "https://gitee.com/liuge1988/kitty"
 		}, {
 			"img": "assets/images/portfolio/portfolio-2.jpg",
-			"title": "kitty-ui [开源项目]",
+			"title": "* * 科技 [开源项目]",
 			"category": "frontend",
 			"technique": "Vue.js",
-			"desc": "Kitty 前端，基于 Vue + Element 实现的后台权限管理系统。",
-			"url": "https://gitee.com/liuge1988/kitty-ui"
+			"desc": "* * 科技 前端，基于 Vue + Element 实现的后台权限管理系统。",
+			"url": "https://github.com/XGuang1226/vue_manage_demo"
 		}, {
 			"img": "assets/images/portfolio/portfolio-3.jpg",
-			"title": "brilliant [开源项目]",
+			"title": "my_resume [开源项目]",
 			"category": "frontend",
 			"technique": "Vue.js",
 			"desc": "帮助专业技术、设计人员快速打造自己优质的个人网站、在线简历。",
-			"url": "https://gitee.com/liuge1988/brilliant"
+			"url": "https://github.com/XGuang1226/my_resume"
 		}, {
 			"img": "assets/images/portfolio/portfolio-4.jpg",
 			"title": "华山智能化工厂",

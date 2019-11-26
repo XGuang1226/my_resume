@@ -1,8 +1,8 @@
 en_us({
 	"basicInfo": {
 		"name": "Su Xiaoguang ♂ male",
-		"title": "☆ Web/JS ☆ Systems Architect ☆ Devolopment Manager",
-		"profileInfo": "I have great interested in science, physics and math since I was a girl. I still remember the first time I play computer in junior middle school, that made me excited. I began programming in senior middle school, I love it and determined to be a engineer in the future and I did. When I got my computer science degree at Babu University of Tianlong in 2011, I had worked for several company with Java Taijigramming. I learned a lot from the practices and I enjoyed it. As the saying goes, where there is a will, there is a way. Although there are seven years since I work, I know there still has a long way to go, and I am trying to be a better programmer.",
+		"title": "☆ Web/JS Engineer ☆ Systems Architect ☆ Devolopment Manager",
+		"profileInfo": "I have great interested in science, physics and math since I was a girl. I still remember the first time I play computer in junior middle school, that made me excited. I began programming in senior middle school, I love it and determined to be a engineer in the future and I did. After graduating from the department of computer science and technology, luoyang institute of technology in 2013, I have been focusing on the development and research of front-end fields. I learned a lot from the practices and I enjoyed it. As the saying goes, where there is a will, there is a way. Although there are seven years since I work, I know there still has a long way to go, and I am trying to be a better programmer.",
 		"email": "2253745861@qq.com",
 		"mobile": "1821502006",
 		"website": "https://blog.csdn.net/qq_40687327",
@@ -172,18 +172,18 @@ en_us({
 			"url": "https://gitee.com/liuge1988/kitty"
 		}, {
 			"img": "assets/images/portfolio/portfolio-2.jpg",
-			"title": "kitty-ui [Open Source]",
+			"title": "* * Technology [Open Source]",
 			"category": "frontend",
 			"technique": "Vue.js",
 			"desc": "Auth Mng System web base on Vue.js and Element UI.",
-			"url": "https://gitee.com/liuge1988/kitty-ui"
+			"url": "https://github.com/XGuang1226/vue_manage_demo"
 		}, {
 			"img": "assets/images/portfolio/portfolio-3.jpg",
-			"title": "brilliant [Open Source]",
+			"title": "my_resume [Open Source]",
 			"category": "frontend",
 			"technique": "Vue.js",
 			"desc": "Help designer and programmer build a brilliant online resume.",
-			"url": "https://gitee.com/liuge1988/brilliant"
+			"url": "https://github.com/XGuang1226/my_resume"
 		}, {
 			"img": "assets/images/portfolio/portfolio-4.jpg",
 			"title": "Huashan System",
