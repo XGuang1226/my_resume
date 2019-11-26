@@ -14,26 +14,26 @@ en_us({
 		"navTitle": "Experiences",
 		"sectionTitle": "Experiences",
 		"workExperiences": [{
-			"place": "Huashan Information Technology Co. Ltd.（1000-5000人）",
-			"location": "Xian",
-			"title": "Systems Architect",
-			"industry": "Software/Service Taijivider",
-			"time": "2017.9 — Present",	
-			"jobDesc": "As a system architect, involved in development cooperation projects, explained as Supply Taijicedure Optimize. The system based on UWB wireless location technology, aim to build the intelligent factory, optimize plant production process, ensure daily production plant equipment production line can be comprehensive management and monitoring. In the process of project development, to participate in the project system to adjust and optimize the structure design, standardizing the development processes of the team, participate in relevant to the needs of research and discussion, to complete the design and encoding of function modules, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles. And if necessary, we also need go to the customer site to offer the related technical support and consultation and help the customer to use the system better."
+			"place": "Cloud chain technology.（300-500人）",
+			"location": "Beijing",
+			"title": "Front-end architect R&D",
+			"industry": "Block chain/Service Taijivider",
+			"time": "2019.7 — Present",	
+			"jobDesc": "As the head of the front end, participate in the development of ZOS project, explained as Supply Taijicedure Optimize. The system based on UWB wireless location technology, aim to build the intelligent factory, optimize plant production process, ensure daily production plant equipment production line can be comprehensive management and monitoring. In the process of project development, to participate in the project system to adjust and optimize the structure design, standardizing the development processes of the team, participate in relevant to the needs of research and discussion, to complete the design and encoding of function modules, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles. And if necessary, we also need go to the customer site to offer the related technical support and consultation and help the customer to use the system better."
 		}, {
-			"place": "Shaolin Network Technology Co. Ltd.（50-150人）",
-			"location": "Henan",
-			"title": "Systems Architect",
-			"industry": "Internet/SaaS Taijivider",
-			"time": "2014.3—2017.9",
-			"jobDesc": "As the system architect, the head master of the pro cloud platform products, is responsible for all technical works related to the platform. Including participation in the pro cloud platform of the demand and market survey, completed the system architecture and design, to control the whole process of system development, development process and project related technical specifications, product development, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles, lead the team to carry out the research of primary technologies and major obstacles to overcome, encourage team members to start training and knowledge sharing."
+			"place": "Beijing can tong world network technology company.（50-150人）",
+			"location": "Beijing",
+			"title": "Front-end architect R&D",
+			"industry": "Online customer service/cloud platform /SaaS provider",
+			"time": "2016.10—2019.7",
+			"jobDesc": "As the system architect of xiaoneng, the head of front-end technology of xiaoneng AI platform products is responsible for all technical work related to the development of xiaoneng AI platform. Mainly include participation in the early period of the "xiaoneng AI" platform demand research and market research, complete the "xiaoneng AI" platform architecture design of the overall system, the control of the whole system development process, develop company project development process and related technical specifications, coordination products, development, testing, each team work together effectively, establish and promote the cultivation of the company's software development technical team, lead the team for the key technology research and the major obstacles to conquer, to organize and guide the team members training and share knowledge and so on."
 		}, {
-			"place": "Wudang Cooperate.（1000-5000人）",
-			"location": "Hubei",
-			"title": "Devolopment Manager",
-			"industry": "Babycare/ECommerce",
-			"time": "2011.1—2014.3",
-			"jobDesc": "Presided over the research and analysis of the field of Java EE rapid development platform, completed the system architecture design, product planning, module development, product construction and release of Songshan JAVA EE rapid development platform. Organize and participate in primary technology research and major obstacles, lead the team to carry out the research of primary technologies and major obstacles to overcome, encourage team members to have knowledge sharing."
+			"place": "Guanglianda group.（1000-3000人）",
+			"location": "Beijing",
+			"title": "Front-end development Engineer",
+			"industry": "Internet/cloud platform /SaaS provider",
+			"time": "2013.10—2016.9",
+			"jobDesc": "As the front end development engineer of the company, I presided over the research and analysis of the front end EE rapid development platform, organized the team members to complete the preliminary demand research of the front end EE rapid development platform of Nerpa, the overall product planning, system architecture design, product function research and development, and the final construction and release of the product. Led and organized the research and development team, committed to the development of a powerful, beautiful interface, easy to configure, easy to maintain, easy to expand, user-friendly, excellent performance of visual JAVA EE rapid development platform, ultimately reduce the development cost, reduce the technical threshold of developers."
 		}]
 	},
 	"projects": {
@@ -44,7 +44,7 @@ en_us({
 		"responsibilityDesc": "Responsibility",
 		"projectExperiences": [{
 			"name": "Huashan Optmize System",
-			"location": "Xian",
+			"location": "Beijing",
 			"title": "Systems Architect",
 			"industry": "Software/Service Taijivider",
 			"time": "2017.9 — Present",	
@@ -53,7 +53,7 @@ en_us({
 			"responsibility": "As a project architect, involved in the project system to adjust and optimize the structure design, participate in relevant to the needs of research and discussion, to complete the design and encoding related function modules, organize and participate in primary technology research and major obstacles."
 		}, {
 			"name": "Taiji Cloud Platform",
-			"location": "Henan",
+			"location": "Beijing",
 			"title": "Systems Architect",
 			"industry": "Internet/SaaS provider",
 			"time": "2014.3—2017.9",
@@ -62,7 +62,7 @@ en_us({
 			"responsibility": "As the system architect of pro cloud platform, is responsible for architecture design, research and analysis of related products, collaborative product manager of the demand, form and lead the product development team to complete system development, arrange project development plan, to control the progress of system development, coordination of product development and testing team to work efficiently, lead and guide the team of key technologies and major obstacles to overcome."
 		}, {
 			"name": "Songshan Rapid JAVA EE Develop Platform",
-			"location": "Hubei",
+			"location": "Beijing",
 			"title": "Devolopment Manager",
 			"industry": "Babycare/ECommerce",
 			"time": "2015.1 - 2017.3",	
@@ -119,29 +119,27 @@ en_us({
 			"name": "CSS3"
 		}],
 		"skillItems": [{
-			"name": "☆ Know well about Java EE System and can choose the appropriate tools to meet the business requirement."
+			"name": "☆ Familiar with W3C standards, familiar with HTML, CSS, familiar with page architecture and layout, able to quickly and accurately restore design drawings, able to solve common browser compatibility problems, familiar with box model, web semantic and front-end performance optimization."
 		}, {
-			"name": "☆ Expert in Java，familiar with Java Memory，JVM optimize，DB optimize，familiar with Design Patterns."
+			"name": "☆ Software: Photoshop, Sublime, WebStorm, IntelliJ IDEA and other editors; Be able to design and develop web special effects independently and have good aesthetic ability."
 		}, {
-			"name": "☆ Skilled in use of  Spring Boot, Spring Cloud, Spring MVC, Spring Security, MyBatis , Spring Data JPA."
+			"name": "☆ Proficient in jQuery library, vue. js, acts. js, JSON, prototype object, prototype chain, scope chain, closure, with a certain object-oriented programming ideas. Familiar with ES6, React-Native and other similar MVVM frameworks, familiar with the Mac platform development environment, understand WeChat terminal APP development."
 		}, {
-			"name": "☆ Have a good charge of Vue.js, Element UI, HTML, CSS, JavaScript, AJAX, JQuery, axios, JSON and son."
+			"name": "☆ Familiar with Phonegap, APICloud, Hybird, CSS3, Zepto. Js in H5 APP, understand querymobile, and have high learning enthusiasm for new technologies."
 		}, {
-			"name": "☆ Expert in Eclipse Plugin Dev，familiar with Eclipse Platform, SWT, JFACE, GEF, GMF, OSGI and relative."
+			"name": "☆ Familiar with modular development, can independently complete the front-end framework packaging and component preparation, JS script to achieve the special effects of the site."
 		}, {
-			"name": "☆ Have a profound understanding of Agile Development and have good practice of agile in project before."
+			"name": "☆ Familiar with adaptive layout and responsive layout principle of mobile terminal, can develop common and responsive pages, and can also develop mobile terminal projects."
 		}, {
-			"name": "☆ Master Maven Build，Junit Testing，Nexus Private Server，Jenkins to provider continuous integration."
+			"name": "☆ Proficient in using Ajax for front and background data interaction, have a good understanding of Ajax cross-domain issues, and adapt to the completion of front and background separate development."
 		}, {
-			"name": "☆ Know well about database of MySQL, oracle, No SQL of Mongo DB, Cache of Redis and MQ of RabbitMQ."
+			"name": "☆ Able to quickly locate, analyze and solve bugs feedback from testing department and update product requirements."
 		}, {
-			"name": "☆ Know about the theory of Spring IOC and AOP, the theory of MyBatis, JPA, the theory of Tomcat Server."
+			"name": "☆ Have a deep understanding of user experience, interactive operation process and user needs."
 		}, {
-			"name": "☆ Familiar with the UML Modeling and the popular development mode, familiar with the use of Linux System."
+			"name": "☆ MySQL, Oracle and other databases, Mongo DB and No SQL, and master Redis and other caching technologies and RabbitMQ and other messaging middleware."
 		}, {
-			"name": "☆ Know about the of knowledge of IaaS, PaaS, SaaS and the theory and usage of docker virtual technology."
-		}, {
-			"name": "☆ Familiar with the C and C++ programming language, have a good use of the various third part. technology."
+			"name": "☆ Familiar with agile development mode, have rich experience and deep understanding of agile development, have good experience in agile team building and cultivation."
 		}]
 	},
 	"portfolio": {

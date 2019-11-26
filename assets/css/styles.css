@@ -439,6 +439,10 @@ a.btn:hover {
   margin-bottom: 15px;
   font-size: 16px;
 }
+.skills-section .skill-items {
+  padding:  0 45px;
+  text-align: left;
+}
 .chart-easy-pie {
   positon: relative;
 }
