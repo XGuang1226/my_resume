@@ -158,6 +158,7 @@ a.btn:hover {
   height: 160px;
   top: -80px;
   margin-left: -80px;
+  border-radius: 90px;
 }
 .header .name {
   font-size: 48px;
@@ -165,7 +166,7 @@ a.btn:hover {
   letter-spacing: 0.5px;
 }
 .header .title {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
   margin-bottom: 30px;
@@ -173,13 +174,17 @@ a.btn:hover {
 .header .intro {
   background: #00a5bb;
   padding-top: 90px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   position: relative;
   font-size: 16px;
 }
+
 .header .profile {
-  max-width: 800px;
+  max-width: 960px;
   margin: 0 auto;
+  font-size: 16px;
+  font-weight: 100;
+  text-align: left;
 }
 .header .contact-info {
   background: #008fa1;
@@ -376,11 +381,22 @@ a.btn:hover {
   font-size: 18px;
   color: #00BCD4;
 }
+.timeline .job-meta .industry {
+  font-size: 15px;
+  color: rgb(129, 155, 158);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 .timeline .job-meta .time {
+  font-size: 15px;
   color: #8a8a8a;
 }
 .timeline .job-desc {
   color: #666;
+}
+.job-desc .job-sub-title {
+  font-size: 16px;
+  color: rgb(110, 103, 103);
 }
 .education-section .item {
   margin-bottom: 45px;
@@ -415,10 +431,10 @@ a.btn:hover {
   font-weight: 300;
 }
 .skills-section .top-skills {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .skills-section .top-skills .item {
-  margin-bottom: 45px;
+  margin-bottom: 25px;
 }
 .skills-section .level {
   color: #8a8a8a;
@@ -439,9 +455,12 @@ a.btn:hover {
   margin-bottom: 15px;
   font-size: 16px;
 }
-.skills-section .skill-items {
-  padding:  0 45px;
+.skills-section .skill-items .skill-item {
+  font-size: 20px;
   text-align: left;
+  padding-left: 30px;
+  margin-bottom: 25px;
+  font-weight: 100;
 }
 .chart-easy-pie {
   positon: relative;
@@ -465,15 +484,15 @@ a.btn:hover {
   left: 0;
   top: 0;
 }
-.testimonials-section .testimonials-carousel {
+.hobbies-section .hobbies-carousel {
   max-width: 800px;
   margin: 0 auto;
 }
-.testimonials-section .item {
+.hobbies-section .item {
   padding-left: 60px;
   margin-bottom: 45px;
 }
-.testimonials-section .quote {
+.hobbies-section .quote {
   border-left: none;
   padding: 0;
   font-size: 22px;
@@ -481,13 +500,13 @@ a.btn:hover {
   font-weight: 300;
   position: relative;
 }
-.testimonials-section .source .name {
+.hobbies-section .source .name {
   font-size: 16px;
 }
-.testimonials-section .source .position {
+.hobbies-section .source .position {
   color: #8a8a8a;
 }
-.testimonials-section .fa-quote-left {
+.hobbies-section .fa-quote-left {
   position: absolute;
   left: -60px;
   top: 0;
@@ -508,11 +527,11 @@ a.btn:hover {
   padding-top: 10px;
   font-size: 16px;
 }
-.testimonials-section .carousel-indicators {
+.hobbies-section .carousel-indicators {
   bottom: 0;
   margin-bottom: 0;
 }
-.testimonials-section .carousel-indicators li {
+.hobbies-section .carousel-indicators li {
   background-color: #bdbdbd;
   border: none;
   width: 10px;
@@ -520,7 +539,7 @@ a.btn:hover {
   margin: 0;
   margin-right: 5px;
 }
-.testimonials-section .carousel-indicators li.active {
+.hobbies-section .carousel-indicators li.active {
   background-color: #00BCD4;
   width: 10px;
   height: 10px;
@@ -580,7 +599,7 @@ a.btn:hover {
   opacity: 0.9;
 }
 .portfolio-section .item-inner .content {
-  padding: 30px;
+  padding: 20px;
   padding-bottom: 75px;
   position: relative;
 }
@@ -592,14 +611,14 @@ a.btn:hover {
   margin-top: 0;
   margin-bottom: 5px;
 }
-.portfolio-section .item-inner .content .meta {
+.portfolio-section .item-inner .content .technique {
   color: rgba(255, 255, 255, 0.8);
   font-size: 14px;
 }
-.portfolio-section .item-inner .content .action {
+.portfolio-section .item-inner .content .desc {
   position: absolute;
-  bottom: 30px;
-  left: 30px;
+  bottom: 20px;
+  left: 20px;
 }
 .portfolio-section .item-inner .link-mask {
   display: block;
@@ -621,6 +640,7 @@ a.btn:hover {
   height: 120px;
   position: absolute;
   left: 30px;
+  border-radius: 90px;
 }
 .contact-section .intro p {
   margin-bottom: 15px;

@@ -16,22 +16,22 @@ en_us({
 		"workExperiences": [{
 			"place": "Cloud chain technology.（300-500人）",
 			"location": "Beijing",
-			"title": "Front-end architect R&D",
+			"title": "Web/JS architect R&D",
 			"industry": "Block chain/Service Taijivider",
 			"time": "2019.7 — Present",	
 			"jobDesc": "As the head of the front end, participate in the development of ZOS project, explained as Supply Taijicedure Optimize. The system based on UWB wireless location technology, aim to build the intelligent factory, optimize plant production process, ensure daily production plant equipment production line can be comprehensive management and monitoring. In the process of project development, to participate in the project system to adjust and optimize the structure design, standardizing the development processes of the team, participate in relevant to the needs of research and discussion, to complete the design and encoding of function modules, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles. And if necessary, we also need go to the customer site to offer the related technical support and consultation and help the customer to use the system better."
 		}, {
 			"place": "Beijing can tong world network technology company.（50-150人）",
 			"location": "Beijing",
-			"title": "Front-end architect R&D",
-			"industry": "Online customer service/cloud platform /SaaS provider",
+			"title": "Web/JS architect R&D",
+			"industry": "Online Service/Cloud/SaaS",
 			"time": "2016.10—2019.7",
-			"jobDesc": "As the system architect of xiaoneng, the head of front-end technology of xiaoneng AI platform products is responsible for all technical work related to the development of xiaoneng AI platform. Mainly include participation in the early period of the "xiaoneng AI" platform demand research and market research, complete the "xiaoneng AI" platform architecture design of the overall system, the control of the whole system development process, develop company project development process and related technical specifications, coordination products, development, testing, each team work together effectively, establish and promote the cultivation of the company's software development technical team, lead the team for the key technology research and the major obstacles to conquer, to organize and guide the team members training and share knowledge and so on."
+			"jobDesc": "As the system architect of pro cloud platform, is responsible for architecture design, research and analysis of related products, collaborative product manager of the demand, form and lead the product development team to complete system development, arrange project development plan, to control the progress of system development, coordination of product development and testing team to work efficiently, lead and guide the team of key technologies and major obstacles to overcome."
 		}, {
 			"place": "Guanglianda group.（1000-3000人）",
 			"location": "Beijing",
-			"title": "Front-end development Engineer",
-			"industry": "Internet/cloud platform /SaaS provider",
+			"title": "Web/JS Engineer R&D",
+			"industry": "Internet/Cloud/SaaS",
 			"time": "2013.10—2016.9",
 			"jobDesc": "As the front end development engineer of the company, I presided over the research and analysis of the front end EE rapid development platform, organized the team members to complete the preliminary demand research of the front end EE rapid development platform of Nerpa, the overall product planning, system architecture design, product function research and development, and the final construction and release of the product. Led and organized the research and development team, committed to the development of a powerful, beautiful interface, easy to configure, easy to maintain, easy to expand, user-friendly, excellent performance of visual JAVA EE rapid development platform, ultimately reduce the development cost, reduce the technical threshold of developers."
 		}]
@@ -45,17 +45,17 @@ en_us({
 		"projectExperiences": [{
 			"name": "ZOS Lending",
 			"location": "Beijing",
-			"title": "Front-end architect R&D",
+			"title": "Web/JS architect R&D",
 			"industry": "Block chain/Service Taijivider",
 			"time": "2019.7 — Present",	
 			"env": "Vue.js + Element + Spring Boot + Spring Cloud + Mybatis + RabbitMQ + Docker + Maven + Jenkins…",	
-			"desc": "Huashan system based on wireless location technology of UWB, provide scheduling dashboard, manager and monitor service of the production line. The system was separated by front and backend, communicate with JSON format. Using HTML5 front page, with the data binding framework simplifies the development of Angular JS, using Spring MVC + Spring + Mybatis backend architecture based on Spring, using Spring Boot to simplify the system configuration, Spring Cloud to support the micro service, to provide a best online API documents with Swagger.",
+			"desc": "ZOS Lending based on wireless location technology of UWB, provide scheduling dashboard, manager and monitor service of the production line. The system was separated by front and backend, communicate with JSON format. Using HTML5 front page, with the data binding framework simplifies the development of Angular JS, using Spring MVC + Spring + Mybatis backend architecture based on Spring, using Spring Boot to simplify the system configuration, Spring Cloud to support the micro service, to provide a best online API documents with Swagger.",
 			"responsibility": "As a project architect, involved in the project system to adjust and optimize the structure design, participate in relevant to the needs of research and discussion, to complete the design and encoding related function modules, organize and participate in primary technology research and major obstacles."
 		}, {
 			"name": "Taiji Cloud Platform",
 			"location": "Beijing",
-			"title": "Front-end architect R&D",
-			"industry": "Online customer service/cloud platform /SaaS provider",
+			"title": "Web/JS architect R&D",
+			"industry": "Online Service/Cloud/SaaS",
 			"time": "2016.10—2019.7",
 			"env": "IDEA + Angular JS + Spring Boot + Spring MVC + Mybatis + FastDFS + Docker + Maven + Jenkins…",	
 			"desc": "Taiji Cloud platform is a cloud platform focused on aerospace, ship transportation, rail transportation and other large industries, aiming to provide full range of needs management, transaction management, project management, task collaboration, industry information and other services. The system used separation style between front and backend.The system was separated by front and backend, communicate with JSON format. Using pure HTML5 front page, with the Angular JS data binding framework to simplify the development, backend using Mainstream Architecture with Spring + Spring MVC Mybatis + Shiro, using the Maven project construction, using Jenkins to provide the continuous integration, using FastDFS to meet the needs of attachment and images, deployment using Docker container technology, to the simplify the deployment work.",
@@ -63,8 +63,8 @@ en_us({
 		}, {
 			"name": "Songshan Rapid JAVA EE Develop Platform",
 			"location": "Beijing",
-			"title": "Front-end development Engineer",
-			"industry": "Internet/cloud platform /SaaS provider",
+			"title": "Web/JS Engineer R&D",
+			"industry": "Internet/Cloud/SaaS",
 			"time": "2013.10—2016.9",	
 			"env": "Eclipse + GEF + EMF + HTML5 + EXT JS + Spring MVC + Spring + Mybatis + Dubbo + Maven + Jenkins…",	
 			"desc": "Songshan JAVA EE rapid development platform is based on Eclipse RCP platform. It can quickly generate concise, easy to use, efficient and robust JAVA platform for business development based on simple visual configuration and modeling. The platform architecture with designer and runtime, the designer is a visual modeling designer based on the Eclipse platform can be completed including data modeling, business modeling, UI modeling, and menu modeling, the runtime is a JAVA EE system based on the excellent business. The function modules can be added by designer generated, which greatly reduces the threshold of development, reduce the cost of development.",
